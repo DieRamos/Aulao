@@ -1,0 +1,10 @@
+package com.devsuperior.myfirstproject.repositories;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class CategoryRepository {
+	
+	
+
+}
